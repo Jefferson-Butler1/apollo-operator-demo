@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     path: reviews
-    repoURL: https://github.com/example/repo
+    repoURL: https://github.com/Jefferson-Butler1/summit2025-w04
     directory:
       include: "*.yaml"
   destination:
