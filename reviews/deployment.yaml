@@ -30,7 +30,7 @@ spec:
         app: reviews
     spec:
       containers:
-        - image: ghcr.io/Jefferson-Butler1/reviews:latest
+        - image: ghcr.io/jefferson-butler1/reviews:latest
           name: reviews
           ports:
             - containerPort: 4000
